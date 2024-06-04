@@ -1,5 +1,5 @@
 ## Hi there 
-## I'm entering my 4th year at the University of Nottingham and beginning work on my Dissertation
+I'm entering my 4th year at the University of Nottingham and beginning work on my Dissertation
 <!--
 **Wthomas443/Wthomas443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
